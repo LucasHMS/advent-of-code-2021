@@ -1,3 +1,5 @@
+// problem https://adventofcode.com/2021/day/2
+
 const fs = require('fs');
 const readline = require('readline');
 
